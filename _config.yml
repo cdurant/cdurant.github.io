@@ -6,17 +6,17 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Colin's Musings and Ramblings
+tagline:          A repository for Colin's thoughts on the web
+url:              http://cdurant.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Colin DuRant
+  url:            https://twitter.com/colin_durant
+  email:          colin.durant@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:          https://github.com/cdurant/cdurant.github.io
